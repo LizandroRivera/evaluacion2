@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">evaluacion2</string>
+    <string name="lbl_Principal">Menu Principal</string>
+    <string name="btn_Calc">Calculadora</string>
+    <string name="btn_Datos">Mis Datos</string>
+    <string name="alumno">Lizandro Enrique Rivera Hernandez</string>
+    <string name="eva">Evaluacion 2</string>
+    <string name="cod">RH16-I04-001</string>
+</resources>
